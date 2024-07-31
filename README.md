@@ -15,7 +15,7 @@ LAB PROGRAMS
 # Priority program status
 
 ##program files of Priority
-![program file](1d/PRORITYFILE.C)
+![program file](1d/PRORITYFILE.c)
 ![program_file](1d/PRIORITY_code_572.jpeg)
 
 ##sample input and output of Priority
