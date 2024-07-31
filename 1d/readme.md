@@ -1,6 +1,6 @@
 # program file
 ![program file](PRIORITY_code_572.jpeg)
-![program file](PRIORITYFILE.c)
+![program file](PRORITYFILE.c)
 
 # sample output
 ![sample output](PRIORITY_IO_572.jpeg)
