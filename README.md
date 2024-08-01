@@ -6,21 +6,21 @@ LAB PROGRAMS
 ![program file](1a/program1afile.c)
 ![program_file](1a/Program1a.jpeg)
 
-##sample input and output of RoundRobin
+##sample input and output of FCFS
 ![sample input](1a/program1asampleoutput.jpeg)
 
-##tested input and output of RoundRobin
+##tested input and output of FCFS
 ![tested input](1a/program1aoutput.jpeg)
 
 # SJF progran status
-##program files of FCFS
+##program files of SJF
 ![program file](1b/program1bfile.c)
 ![program_file](1b/Program1b.jpeg)
 
-##sample input and output of RoundRobin
+##sample input and output of SJF
 ![sample input](1a/program1bsampleoutput.jpeg)
 
-##tested input and output of RoundRobin
+##tested input and output of SJF
 ![tested input](1a/program1boutput.jpeg)
 
 # RoundRobin program status
