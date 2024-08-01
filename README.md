@@ -18,10 +18,10 @@ LAB PROGRAMS
 ![program_file](1b/Program1b.jpeg)
 
 ##sample input and output of SJF
-![sample input](1a/program1bsampleoutput.jpeg)
+![sample input](1b/program1bsampleoutput.jpeg)
 
 ##tested input and output of SJF
-![tested input](1a/program1boutput.jpeg)
+![tested input](1b/program1boutput.jpeg)
 
 # RoundRobin program status
 
