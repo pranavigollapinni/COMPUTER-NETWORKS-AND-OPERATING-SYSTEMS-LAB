@@ -7,7 +7,7 @@
 ![sample output](mvt_IO1_572.jpeg)
 
 # tested output
-![tested output](MVT_EO1_572.jpeg)
+![tested output](mvt_EO1_572.jpeg)
 
 #MFT
 # program file
