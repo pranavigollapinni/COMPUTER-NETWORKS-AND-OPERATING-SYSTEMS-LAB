@@ -47,3 +47,32 @@ LAB PROGRAMS
 ##tested input and output of RoundRobin
 ![tested input](1d/PRIORITY_EO_572.jpeg)
 
+# MVT program status
+
+##program files of MVT
+![program file](EXP10/MVTfile.c)
+![program_file](EXP10/MVT_code_572.jpeg)
+
+##sample input and output of Priority
+![sample input](EXP10/mvt_IO1_572.jpeg)
+
+##tested input and output of RoundRobin
+![tested input](EXP10/mvt_EO1_572.jpeg)
+
+
+# MFT program status
+
+##program files of MVT
+![program file](EXP10/MFTfile.c)
+![program_file](EXP10/MFT_code_572.jpeg)
+
+##sample input and output of Priority
+![sample input](EXP10/MFT_IO_572.jpeg)
+
+##tested input and output of RoundRobin
+![tested input](EXP10/MFT_EO_572.jpeg)
+
+
+
+
+
