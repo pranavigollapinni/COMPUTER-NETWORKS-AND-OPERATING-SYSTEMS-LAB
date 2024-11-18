@@ -162,11 +162,29 @@ LAB PROGRAMS
 ![program file](EXP14/OptimalPageFile.c)
 ![program_file](EXP14/OptimalPage_code_572.jpeg)
 
-##sample input and output of Optimal Page Replacement Algorithm
-![sample input](EXP14/OptimalPage_IO_572.jpeg)
+# SingleLevelDirectory program status
 
-##tested input and output of Optimal Page Replacement Algorithm
-![tested input](EXP14/OptimalPage_EO_572.jpeg)
+##program files of SingleLevelDirectory
+![program file](EXP15/SingleLevelDirectory.c)
+![program_file](EXP15/SingleLevelDirectory_code_572.jpeg)
+
+##sample input and output of SingleLevelDirectory
+![sample input](EXP15/SingleLevelDirectory_IO_572.jpeg)
+
+##tested input and output of SingleLevelDirectory
+![tested input](EXP15/SingleLevelDirectory_EO_572.jpeg)
+
+# SecondLevelDirectory program status
+
+##program files of SecondLevelDirectory
+![program file](EXP15/SecondLevelDirectory.c)
+![program_file](EXP15/SecondLevelDirectory_code_572.jpeg)
+
+##sample input and output of SingleLevelDirectory
+![sample input](EXP15/SecondLevelDirectory_IO_572.jpeg)
+
+##tested input and output of SingleLevelDirectory
+![tested input](EXP15/SecondLevelDirectory_EO_572.jpeg)
 
 
 
