@@ -162,6 +162,12 @@ LAB PROGRAMS
 ![program file](EXP14/OptimalPageFile.c)
 ![program_file](EXP14/OptimalPage_code_572.jpeg)
 
+##sample input and output of LRU Page Replacement Algorithm
+![sample input](EXP14/OptimalPage_IO_572.jpeg)
+
+##tested input and output of LRU Page Replacement Algorithm
+![tested input](EXP14/OptimalPage_EO_572.jpeg)
+
 # SingleLevelDirectory program status
 
 ##program files of SingleLevelDirectory
