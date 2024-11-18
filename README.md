@@ -96,6 +96,46 @@ LAB PROGRAMS
 ##tested input and output of Dining Philosopher
 ![tested input](EXP11/DiningPhilosopher_EO_572.jpeg)
 
+# Worst Fit program status
+
+##program files of WorstFit
+![program file](EXP13/WorstFitFile.c)
+![program_file](EXP13/WorstFit_code_572.jpeg)
+
+##sample input and output of WorstFit
+![sample input](EXP13/WorstFit_IO_572.jpeg)
+
+##tested input and output of WorstFit
+![tested input](EXP13/WorstFit_EO_572.jpeg)
+
+# Best Fit program status
+
+##program files of BestFit
+![program file](EXP13/BestFitFile.c)
+![program_file](EXP13/BestFit_code_572.jpeg)
+
+##sample input and output of BestFit
+![sample input](EXP13/BestFit_IO_572.jpeg)
+
+##tested input and output of WorstFit
+![tested input](EXP13/BestFit_EO_572.jpeg)
+
+# First Fit program status
+
+##program files of FirstFit
+![program file](EXP13/FirstFitFile.c)
+![program_file](EXP13/FirstFit_code_572.jpeg)
+
+##sample input and output of BestFit
+![sample input](EXP13/FirstFit_IO_572.jpeg)
+
+##tested input and output of WorstFit
+![tested input](EXP13/FirstFit_EO_572.jpeg)
+
+
+
+
+
 
 
 
