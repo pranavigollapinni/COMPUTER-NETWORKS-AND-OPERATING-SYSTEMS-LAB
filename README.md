@@ -126,10 +126,10 @@ LAB PROGRAMS
 ![program file](EXP13/FirstFitFile.c)
 ![program_file](EXP13/FirstFit_code_572.jpeg)
 
-##sample input and output of BestFit
+##sample input and output of FirstFit
 ![sample input](EXP13/FirstFit_IO_572.jpeg)
 
-##tested input and output of WorstFit
+##tested input and output of FirstFit
 ![tested input](EXP13/FirstFit_EO_572.jpeg)
 
 
