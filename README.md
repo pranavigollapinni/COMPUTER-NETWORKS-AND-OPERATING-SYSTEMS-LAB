@@ -132,6 +132,44 @@ LAB PROGRAMS
 ##tested input and output of FirstFit
 ![tested input](EXP13/FirstFit_EO_572.jpeg)
 
+# FIFO Page Replacement Algorithm program status
+
+##program files of FIFO Page Replacement Algorithm
+![program file](EXP14/FifoPageFile.c)
+![program_file](EXP14/FifoPage_code_572.jpeg)
+
+##sample input and output of FIFO Page Replacement Algorithm
+![sample input](EXP14/FifoPage_IO_572.jpeg)
+
+##tested input and output of FIFO Page Replacement Algorithm
+![tested input](EXP14/FifoPage_EO_572.jpeg)
+
+# LRU Page Replacement Algorithm program status
+
+##program files of LRU Replacement Algorithm
+![program file](EXP14/LruPageFile.c)
+![program_file](EXP14/LruPage_code_572.jpeg)
+
+##sample input and output of LRU Page Replacement Algorithm
+![sample input](EXP14/LruPage_IO_572.jpeg)
+
+##tested input and output of LRU Page Replacement Algorithm
+![tested input](EXP14/LruPage_EO_572.jpeg)
+
+# Optimal Page Replacement Algorithm program status
+
+##program files of  Optimal Replacement Algorithm
+![program file](EXP14/OptimalPageFile.c)
+![program_file](EXP14/OptimalPage_code_572.jpeg)
+
+##sample input and output of Optimal Page Replacement Algorithm
+![sample input](EXP14/OptimalPage_IO_572.jpeg)
+
+##tested input and output of Optimal Page Replacement Algorithm
+![tested input](EXP14/OptimalPage_EO_572.jpeg)
+
+
+
 
 
 
