@@ -76,13 +76,13 @@ LAB PROGRAMS
 
 ##program files of MVT
 ![program file](EXP10P&C/Producer&Consumerfile.c)
-![program_file](EXP10p&C/Producer&Consumer_code_572.jpeg)
+![program_file](EXP10P&C/Producer&Consumer_code_572.jpeg)
 
 ##sample input and output of Priority
-![sample input](EXP10p&C/Producer&Consumer_IO_572.jpeg)
+![sample input](EXP10P&C/Producer&Consumer_IO_572.jpeg)
 
 ##tested input and output of RoundRobin
-![tested input](EXP10p&C/Producer&Consumer_EO_572.jpeg)
+![tested input](EXP10P&C/Producer&Consumer_EO_572.jpeg)
 
 
 
