@@ -86,14 +86,14 @@ LAB PROGRAMS
 
 # Dining Philosopher program status
 
-##program files of Producer&Consumer
+##program files of Dining Philosopher
 ![program file](EXP11/DiningPhilosopherFile.c)
 ![program_file](EXP11/DiningPhilosopher_code_572.jpeg)
 
-##sample input and output of Producer&Consumer
+##sample input and output of Dining Philosopher
 ![sample input](EXP11/DiningPhilosopher_IO_572.jpeg)
 
-##tested input and output of Producer&Consumer
+##tested input and output of Dining Philosopher
 ![tested input](EXP11/DiningPhilosopher_EO_572.jpeg)
 
 
