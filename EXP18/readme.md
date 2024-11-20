@@ -1,3 +1,4 @@
+#C SCAN DISK SCHEDULING
 # program file
 ![program file](CScan_code_572.jpeg)
 ![program file](C_ScanFile.c)
@@ -8,6 +9,8 @@
 # tested output
 ![tested output](CScan_EO_572.jpeg)
 
+# FCFS DISK SCHEDULING
+
 # program file
 ![program file](FcfsDisk_code_572.jpeg)
 ![program file](FcfsFile.c)
@@ -17,6 +20,8 @@
 
 # tested output
 ![tested output](FcfsDisk_EO_572.jpeg)
+
+#SCAN DISK SCHEDULING
 
 # program file
 ![program file](ScanDisk_code_572.jpeg)
