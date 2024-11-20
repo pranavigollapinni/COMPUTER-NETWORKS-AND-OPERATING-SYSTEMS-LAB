@@ -1,3 +1,5 @@
+#SEQUENTIAL FILE ORGANIZATION
+
 # program file
 ![program file](Sequential_code_572.jpeg)
 ![program file](SequentialFile.c)
@@ -7,6 +9,8 @@
 
 # tested output
 ![tested output](Sequential_EO_572.jpeg)
+
+#INDEXED FILE ORGANIZATION
 
 # program file
 ![program file](Indexed_code_572.jpeg)
@@ -18,6 +22,7 @@
 # tested output
 ![tested output](Indexed_EO_572.jpeg)
 
+#LINKED FILE ORGANIZATION
 
 # program file
 ![program file](Linked_code_572.jpeg)
