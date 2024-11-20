@@ -162,10 +162,10 @@ LAB PROGRAMS
 ![program file](EXP14/OptimalPageFile.c)
 ![program_file](EXP14/OptimalPage_code_572.jpeg)
 
-##sample input and output of LRU Page Replacement Algorithm
+##sample input and output of Optimal Page Replacement Algorithm
 ![sample input](EXP14/OptimalPage_IO_572.jpeg)
 
-##tested input and output of LRU Page Replacement Algorithm
+##tested input and output of Optimal Page Replacement Algorithm
 ![tested input](EXP14/OptimalPage_EO_572.jpeg)
 
 # SingleLevelDirectory program status
@@ -191,6 +191,45 @@ LAB PROGRAMS
 
 ##tested input and output of SingleLevelDirectory
 ![tested input](EXP15/SecondLevelDirectory_EO_572.jpeg)
+
+# Sequential File Allocation program status
+
+##program files of Sequential File Allocation
+![program file](EXP16/SequentialFile.c)
+![program_file](EXP16/Sequential_code_572.jpeg)
+
+##sample input and output of Sequential File Allocation
+![sample input](EXP16/Sequential_IO_572.jpeg)
+
+##tested input and output of Sequential File Allocation
+![tested input](EXP16/Sequential_EO_572.jpeg)
+
+# Indexed File Allocation program status
+
+##program files of Indexed File Allocation
+![program file](EXP16/IndexedFile.c)
+![program_file](EXP16/Indexed_code_572.jpeg)
+
+##sample input and output of Indexed File Allocation
+![sample input](EXP16/Indexed_IO_572.jpeg)
+
+##tested input and output of Indexed File Allocation
+![tested input](EXP16/Indexed_EO_572.jpeg)
+
+# Linked File Allocation program status
+
+##program files of Indexed File Allocation
+![program file](EXP16/LinkedFile.c)
+![program_file](EXP16/Linked_code_572.jpeg)
+
+##sample input and output of Indexed File Allocation
+![sample input](EXP16/Linked_IO_572.jpeg)
+
+##tested input and output of Indexed File Allocation
+![tested input](EXP16/Linked_EO_572.jpeg)
+
+
+
 
 
 
